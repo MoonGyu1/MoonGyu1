@@ -2,7 +2,7 @@
 👋 Hi, I’m <b>gyuwon Moon</b>. <br>I'm majoring in Computer Engineering and Chinese in college.<br>I’m currently learning web programming ❕
 </p>
 <br><br>
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h3 align="center"><b>💎 Tech Stack 💎</b></h3>
 <p align="center"><I>What I've used at least once</I></p>
 </br>
 <p align="center">
