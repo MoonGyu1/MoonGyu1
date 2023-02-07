@@ -67,7 +67,8 @@
 
   
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Moongyu1&show_icons=true&theme=buefy&count_private=true&hide=stars"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moongyu1&layout=compact&hide=jupyternotebook"/>
+<img src="https://github-readme-stats.vercel.app/api/?username=Moongyu1&show_icons=true&theme=buefy&count_private=true&hide=stars"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moongyu1&layout=compact&hide=jupyter_notebook"/>
 
 <br>
