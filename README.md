@@ -6,24 +6,24 @@
 
 ## EXPERIENCE
 >**Backend Engineering Intern, Daangn**&nbsp;&nbsp;&nbsp;&nbsp;`October 2023 – April 2024 (6 months)`
-- _Developed and maintained backend systems for "Daangn Alba" service._
+- _Developed and maintained backend systems for ["Daangn Alba"](https://www.daangn.com/kr/jobs/about) service._
 
 <br/>
 
 >**Software Engineering Intern, Naver**&nbsp;&nbsp;&nbsp;&nbsp;`July 2023 – September 2023 (2 months)`
-- _Contributed to the development of "Yorkie," an open-source platform supporting real-time collaboration tools._  
+- _Contributed to the development of ["Yorkie"](https://yorkie.dev), an open-source platform supporting real-time collaboration tools._  
 
 <br/>
 
 >**Backend Developer, Startup Club at HUFS**&nbsp;&nbsp;&nbsp;&nbsp;`March 2021 – October 2023 (2 years 7 months)`
-- _Launched "Meetinghakgaeron," a connection service for university students, and received awards for the project._  
+- _Launched ["Meetinghakgaeron"](https://meetingo.me), a connection service for university students, and received awards for the project._  
 - _Planned and developed various IT services as part of the club's initiatives._  
 
 <br/>
 
 >**Backend Developer, SOPT**&nbsp;&nbsp;&nbsp;&nbsp;`October 2021 – January 2022 (4 months)` 
 - _Completed the server development course in the SOPT university IT venture union club._  
-- _Developed the backend for "Teamble," a service facilitating IT project team formation._  
+- _Developed the backend for ["Teamble"](https://github.com/MoonGyu1/Teamble-Server), a service facilitating IT project team formation._  
 - _Participated in short- and long-term hackathons and won awards._
 
 <br/>
