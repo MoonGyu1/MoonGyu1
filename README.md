@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:EED3D9,40:F5E8DD,80:CCD3CA,100:B5C0D0&height=300&section=header&text=moon%20gyuwon%&fontSize=50&fontColor=" /></p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:EED3D9,40:F5E8DD,80:CCD3CA,100:B5C0D0&height=300&section=header&text=moon%20gyuwon%&fontSize=50&fontColor=3f3f3f" /></p>
 
 <br/>
 <br/>
