@@ -1,74 +1,56 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c0ffd5,50:d5c0ff,100:ffd5c0&height=300&section=header&text=Moongyu1&fontSize=90&fontColor=ffffff" /></p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:EED3D9,40:F5E8DD,80:CCD3CA,100:B5C0D0&height=300&section=header&text=moon%20gyuwon%&fontSize=50&fontColor=" /></p>
 
-<br>
+<br/>
+<br/>
 
-<h3 align="center"><I><b>What I’m currently learning</b></I></h3>
+## EXPERIENCE
+>**Backend Engineering Intern, Daangn**&nbsp;&nbsp;&nbsp;&nbsp;`October 2023 – April 2024 (6 months)`
+- _Developed and maintained backend systems for "Daangn Alba" service._
 
-<p align="center">
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/typeorm-131313?style=for-the-badge&logo=typeorm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+<br/>
+
+>**Software Engineering Intern, Naver**&nbsp;&nbsp;&nbsp;&nbsp;`July 2023 – September 2023 (2 months)`
+- _Contributed to the development of "Yorkie," an open-source platform supporting real-time collaboration tools._  
+
+<br/>
+
+>**Backend Developer, Startup Club at HUFS**&nbsp;&nbsp;&nbsp;&nbsp;`March 2021 – October 2023 (2 years 7 months)`
+- _Launched "Meetinghakgaeron," a connection service for university students, and received awards for the project._  
+- _Planned and developed various IT services as part of the club's initiatives._  
+
+<br/>
+
+>**Backend Developer, SOPT**&nbsp;&nbsp;&nbsp;&nbsp;`October 2021 – January 2022 (4 months)` 
+- _Completed the server development course in the SOPT university IT venture union club._  
+- _Developed the backend for "Teamble," a service facilitating IT project team formation._  
+- _Participated in short- and long-term hackathons and won awards._
+
+<br/>
+<br/>
+
+## EDUCATION
+>**Hankuk University of Foreign Studies**  
+  - _Bachelor of Arts in Chinese Interpretation and Translation (2023)_  
+  - _Bachelor of Engineering in Computer and Electronic System Engineering (2023)_
+
+<br/>
+<br/>
+
+## TECHNICAL SKILLS
+| Category            | Technologies                                                                                                                                                                                                                                                                                                                                                                                  |
+|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Programming Languages | <img src="https://img.shields.io/badge/JavaScript-FFECB3?style=flat&logo=javascript&logoColor=000000"/> <img src="https://img.shields.io/badge/TypeScript-B3D8FF?style=flat&logo=typescript&logoColor=1A1A1A"/> <img src="https://img.shields.io/badge/Java-B3C6FF?style=flat&logo=java&logoColor=1A1A1A"/> <img src="https://img.shields.io/badge/Go-B3F0FF?style=flat&logo=go&logoColor=000000"/> |
+| Frameworks & Libraries | <img src="https://img.shields.io/badge/Node.js-B3E6B3?style=flat&logo=node.js&logoColor=000000"/> <img src="https://img.shields.io/badge/Nest.js-F8B3B3?style=flat&logo=nestjs&logoColor=000000"/> <img src="https://img.shields.io/badge/SpringBoot-C7FFC7?style=flat&logo=springboot&logoColor=1A1A1A"/> <img src="https://img.shields.io/badge/TypeORM-FFD1B3?style=flat&logo=typeorm&logoColor=1A1A1A"/> <img src="https://img.shields.io/badge/JPA-B3C9FF?style=flat&logo=hibernate&logoColor=000000"/> <img src="https://img.shields.io/badge/GraphQL-F9B3FF?style=flat&logo=graphql&logoColor=000000"/> <img src="https://img.shields.io/badge/gRPC-B3D1FF?style=flat&logo=google&logoColor=1A1A1A"/> <img src="https://img.shields.io/badge/Kafka-CBB3FF?style=flat&logo=apachekafka&logoColor=000000"/> <img src="https://img.shields.io/badge/React.js-B3F0FF?style=flat&logo=react&logoColor=1A1A1A"/> |
+| Databases            | <img src="https://img.shields.io/badge/MongoDB-C1F7C1?style=flat&logo=mongodb&logoColor=1A1A1A"/> <img src="https://img.shields.io/badge/OpenSearch-B3D6F7?style=flat&logo=opensearch&logoColor=000000"/> <img src="https://img.shields.io/badge/MySQL-B3CCE6?style=flat&logo=mysql&logoColor=000000"/> <img src="https://img.shields.io/badge/Redis-F2B3B3?style=flat&logo=redis&logoColor=1A1A1A"/>       |
+| DevOps & Tools       | <img src="https://img.shields.io/badge/AWS-C1D8E6?style=flat&logo=amazonwebservices&logoColor=1A1A1A"/> <img src="https://img.shields.io/badge/Docker-C1E6FF?style=flat&logo=docker&logoColor=000000"/> <img src="https://img.shields.io/badge/GitHub%20Actions-B3D8FF?style=flat&logo=githubactions&logoColor=000000"/> <img src="https://img.shields.io/badge/Linux-F9E8B3?style=flat&logo=linux&logoColor=1A1A1A"/> |
+| Collaboration Tools  | <img src="https://img.shields.io/badge/Swagger-C7F7C7?style=flat&logo=swagger&logoColor=1A1A1A"/> <img src="https://img.shields.io/badge/JIRA-C7D8F7?style=flat&logo=jira&logoColor=000000"/> <img src="https://img.shields.io/badge/Notion-EFEFEF?style=flat&logo=notion&logoColor=000000"/> <img src="https://img.shields.io/badge/Slack-E8C7E8?style=flat&logo=slack&logoColor=1A1A1A"/>          |
+
+<br/>
+<br/>
+
+## GITHUB STATS
+<p>
+<img src="https://github-readme-stats.vercel.app/api/?username=Moongyu1&show_icons=true&count_private=true&hide=stars&title_color=4a4d4f&icon_color=ffc08e&text_color=6e726d" style="height:180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moongyu1&layout=compact&hide=jupyter_notebook&title_color=4a4d4f" style="height:180px"/>
 </p>
-
-<br>
-<br>
-<br>
-<br>
-
-<h3 align="center"><I><b>What I've used at least once</b></I></h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
-<br>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<br>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-
-</p>
-
-<br>
-<br>
-<br>  
-<br>
-<br>  
-<br>
-
-  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/?username=Moongyu1&show_icons=true&theme=buefy&count_private=true&hide=stars"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moongyu1&layout=compact&hide=jupyter_notebook"/>
-
-<br>
